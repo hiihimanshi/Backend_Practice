@@ -2,9 +2,10 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "To deploy backend",
-  "main": "index.js",
+  "type": "module",
+  "main": "random.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node fileSystem.js"
   },
   "keywords": [
     "node"
