@@ -5,7 +5,7 @@
   "type": "module",
   "main": "random.js",
   "scripts": {
-    "dev": "node fileSystem.js"
+    "dev": "node random.js"
   },
   "keywords": [
     "node"
