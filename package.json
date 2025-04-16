@@ -5,7 +5,7 @@
   "type": "module",
   "main": "random.js",
   "scripts": {
-    "dev": "node random.js"
+    "dev": "node jwt.js"
   },
   "keywords": [
     "node"
@@ -13,7 +13,9 @@
   "author": "Himanshi",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "dotenv": "^16.4.7",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
   }
 }
